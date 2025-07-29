@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/flatland" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pacman-public" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/piglet-public" vcs="Git" />
+  </component>
+</project>

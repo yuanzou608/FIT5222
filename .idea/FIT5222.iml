@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/flatland/.eggs/Pillow-7.2.0-py3.8-linux-x86_64.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flatland/.eggs/appdirs-1.4.4-py3.8.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flatland/.eggs/asttokens-3.0.0-py3.8.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flatland/.eggs/async_timeout-5.0.1-py3.8.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flatland/.eggs/attrs-19.3.0-py3.8.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flatland/.eggs/backcall-0.2.0-py3.8.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flatland/.eggs/certifi-2025.7.14-py3.8.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flatland/.eggs/charset_normalizer-3.4.2-py3.8-linux-x86_64.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flatland/.eggs/click-7.1.2-py3.8.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flatland/.eggs/cloudpickle-3.1.1-py3.8.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flatland/.eggs/comm-0.2.3-py3.8.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flatland/.eggs/crowdai_api-0.1.22-py3.8.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flatland/.eggs/cycler-0.12.1-py3.8.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flatland/.eggs/decorator-5.2.1-py3.8.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flatland/.eggs/distlib-0.4.0-py3.8.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flatland/.eggs/executing-2.2.0-py3.8.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flatland/.eggs/filelock-3.16.1-py3.8.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flatland/.eggs/fonttools-4.57.0-py3.8-linux-x86_64.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flatland/.eggs/graphviz-0.20.3-py3.8.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flatland/.eggs/gym-0.22.0-py3.8.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flatland/.eggs/gym_notices-0.1.0-py3.8.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flatland/.eggs/idna-3.10-py3.8.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flatland/.eggs/imageio-2.5.0-py3.8.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flatland/.eggs/importlib_resources-1.5.0-py3.8.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flatland/.eggs/ipycanvas-0.13.3-py3.8.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flatland/.eggs/ipython-8.12.3-py3.8.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flatland/.eggs/ipywidgets-8.1.7-py3.8.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flatland/.eggs/jedi-0.19.2-py3.8.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flatland/.eggs/jupyterlab_widgets-3.0.15-py3.8.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flatland/.eggs/kiwisolver-1.4.7-py3.8-linux-x86_64.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flatland/.eggs/lxml-6.0.0-py3.8-linux-x86_64.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flatland/.eggs/matplotlib-3.5.3-py3.8-linux-x86_64.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flatland/.eggs/matplotlib_inline-0.1.7-py3.8.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flatland/.eggs/msgpack-0.6.1-py3.8-linux-x86_64.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flatland/.eggs/msgpack_numpy-0.4.6.post0-py3.8.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flatland/.eggs/networkx-3.1-py3.8.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flatland/.eggs/numpy-1.19.1-py3.8-linux-x86_64.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flatland/.eggs/pandas-1.0.5-py3.8-linux-x86_64.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flatland/.eggs/parso-0.8.4-py3.8.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flatland/.eggs/pexpect-4.9.0-py3.8.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flatland/.eggs/pickleshare-0.7.5-py3.8.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flatland/.eggs/pluggy-0.13.1-py3.8.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flatland/.eggs/prompt_toolkit-3.0.51-py3.8.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flatland/.eggs/ptyprocess-0.7.0-py3.8.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flatland/.eggs/pure_eval-0.2.3-py3.8.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flatland/.eggs/py-1.11.0-py3.8.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flatland/.eggs/pyarrow-0.17.1-py3.8-linux-x86_64.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flatland/.eggs/pyglet-1.5.27-py3.8.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flatland/.eggs/pygments-2.19.2-py3.8.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flatland/.eggs/pyparsing-3.1.4-py3.8.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flatland/.eggs/pytest-5.4.3-py3.8.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flatland/.eggs/pytest_runner-5.2-py3.8.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flatland/.eggs/python_dateutil-2.9.0.post0-py3.8.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flatland/.eggs/python_gitlab-4.13.0-py3.8.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flatland/.eggs/pytz-2025.2-py3.8.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flatland/.eggs/recordtype-1.3-py3.8.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flatland/.eggs/redis-6.1.1-py3.8.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flatland/.eggs/requests-2.32.4-py3.8.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flatland/.eggs/requests_toolbelt-1.0.0-py3.8.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flatland/.eggs/six-1.15.0-py3.8.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flatland/.eggs/stack_data-0.6.3-py3.8.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flatland/.eggs/svgutils-0.3.1-py3.8.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flatland/.eggs/timeout_decorator-0.4.1-py3.8.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flatland/.eggs/toml-0.10.2-py3.8.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flatland/.eggs/tox-3.17.1-py3.8.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flatland/.eggs/traitlets-5.14.3-py3.8.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flatland/.eggs/urllib3-2.2.3-py3.8.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flatland/.eggs/virtualenv-20.0.27-py3.8.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flatland/.eggs/wcwidth-0.2.13-py3.8.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flatland/.eggs/widgetsnbextension-4.0.14-py3.8.egg" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="flatland-rl" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="PyDocumentationSettings">
+    <option name="format" value="PLAIN" />
+    <option name="myDocStringFormat" value="Plain" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="py.test" />
+  </component>
+</module>
